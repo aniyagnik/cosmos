@@ -4,7 +4,7 @@ export default [
     type: `drawf star`,
     age: `~4.5 billion years`,
     radius: `694,508 km | 432,168.6 miles`,
-    image: 'sun.jpg',
+    image: '../../public/pics/sun.jpg',
     discription: [
       {
         heading: 'Orbit And Rotation',
