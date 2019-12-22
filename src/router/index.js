@@ -1,7 +1,10 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-
+import About from '../views/About.vue'
+import SolarSystem from '../views/SolarSystem.vue'
+import Galaxies from '../views/Galaxies.vue'
+import CosmicBodies from '../views/CosmicBodies.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -13,11 +16,29 @@ const routes = [
   {
     path: '/about',
     name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
+    component: About
+  },
+  {
+    path: '/solarSystem',
+    name: 'Our Solar System',
+    component: SolarSystem
+  },
+  {
+    path: '/galaxies',
+    name: 'Galaxies',
+    component: Galaxies
+  },
+  {
+    path: '/cosmicBodies',
+    name: 'CosmicBodies',
+    component: CosmicBodies
+  },
+  {
+    path: '/news',
+    name: 'News',
+    component: CosmicBodies
+  },
+
 ]
 
 const router = new VueRouter({
