@@ -12,7 +12,7 @@
         <router-link class="nav-items" to="/solarSystem">Solar System</router-link>
       </b-navbar-brand>
       <b-navbar-brand>
-        <router-link class="nav-items" to="/cosmicBodies">CosmicBodies</router-link>
+        <router-link class="nav-items" to="/cosmicBodies">Cosmic Bodies</router-link>
       </b-navbar-brand>
       <b-navbar-brand>
         <router-link class="nav-items" to="/galaxies">Galaxies</router-link>
@@ -49,7 +49,7 @@
       </b-collapse>
     </b-navbar>
   </div>
-  <br><br>
+  <!-- end of navbar -->
   <router-view/>
   </div>
 </template>
