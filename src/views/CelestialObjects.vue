@@ -1,14 +1,20 @@
 <template>
     <div>
        <h2>{{ body.name }}</h2>
-       <p>{{ body.discription }}</p>
+       <li v-for='data in body.discription' :key="data.heading">
+         <info-container :data='data'></info-container>
+       </li>
     </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
+import infoContainer from '@/components/infoCard'
 
 export default {
+  components: {
+    'info-container': infoContainer
+  },
   data () {
     return {
       body: {}
@@ -16,11 +22,11 @@ export default {
   },
   computed: {
     ...mapState([
-      'solarSystem'
+      'dataSolarObject'
     ])
   },
   mounted () {
-    const body = this.solarSystem.find(({ name }) => name === this.$route.params.name)
+    const body = this.dataSolarObject.find(({ name }) => name === this.$route.params.name)
     this.body = body
   }
 

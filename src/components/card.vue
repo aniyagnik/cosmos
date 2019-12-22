@@ -2,7 +2,7 @@
   <div class="card-component">
       <h1 class='heading'>{{ object.name }}</h1>
       <p>
-        {{ object.discription }}
+        {{ object.summary }}
       </p>
   </div>
 </template>
