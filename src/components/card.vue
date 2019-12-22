@@ -20,11 +20,13 @@ export default {
 
 <style>
   .card-component {
-    border: 1px solid white;
+    border: 3px solid white;
     padding: 10px;
     background-color: black;
     opacity:0.8;
     margin-bottom:10px;
+    text-decoration: none !important;
+    color:whitesmoke;
   }
 
   .card-component:hover{
