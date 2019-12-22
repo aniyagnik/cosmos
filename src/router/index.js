@@ -6,6 +6,8 @@ import SolarSystem from '../views/SolarSystem.vue'
 import Galaxies from '../views/Galaxies.vue'
 import CosmicBodies from '../views/CosmicBodies.vue'
 import News from '../views/News.vue'
+import CelestialObjects from '../views/CelestialObjects.vue'
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -38,6 +40,11 @@ const routes = [
     path: '/news',
     name: 'News',
     component: News
+  },
+  {
+    path: '/solarSystem/:name',
+    name: 'CelestialObjects',
+    component: CelestialObjects
   }
 
 ]
