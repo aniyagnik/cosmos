@@ -16,7 +16,8 @@ export default {
   color: white;
   background-image: url('../../public/pics/news.jpg');
   background-position:center;
-  background-repeat: repeat;
-  height: 92.5vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 </style>

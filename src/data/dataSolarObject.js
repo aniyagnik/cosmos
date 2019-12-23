@@ -526,5 +526,78 @@ export default [
         Neptune's ring system also has peculiar clumps of dust called arcs. Four prominent arcs named Liberté (Liberty), Egalité (Equality), Fraternité (Fraternity) and Courage are in the outermost ring, Adams. The arcs are strange because the laws of motion would predict that they would spread out evenly rather than stay clumped together. Scientists now think the gravitational effects of Galatea, a moon just inward from the ring, stabilizes these arcs. `
       }
     ]
+  },
+  {
+    name: `moon`,
+    type: `Territial Planet`,
+    otherDetails: [
+      {
+        property: 'day',
+        value: '16 hours'
+      },
+      {
+        property: 'distance from Earth',
+        value: '238,855 miles | 384,400 kilometers'
+      }
+    ],
+    radius: '1,737.5 kilometers | 1,079.6 miles',
+    image: '../../public/pics/neptune.jpg',
+    discription: [
+      {
+        heading: 'Size And Distance',
+        content: `With a radius of 1,079.6 miles (1,737.5 kilometers), the Moon is less than a third the width of Earth. If Earth were the size of a nickel, the Moon would be about as big as a coffee bean.
+        The Moon is farther away from Earth than most people realize. The Moon is an average of 238,855 miles (384,400 kilometers) away. That means 30 Earth-sized planets could fit in between Earth and the Moon.        
+        The Moon is slowly moving away from Earth, getting about an inch farther away each year.`
+      },
+      {
+        heading: 'Orbit and Rotation',
+        content: `The Moon is rotating at the same rate that it revolves around Earth (called synchronous rotation), so the same hemisphere faces Earth all the time. Some people call the far side &mdash; the hemisphere we never see from Earth &mdash; the "dark side," but that's misleading. As the Moon orbits Earth, different parts are in sunlight or darkness at different times. The changing illumination is why, from our perspective, the Moon goes through phases. During a "full moon," the hemisphere of the Moon we can see from Earth is fully illuminated by the sun. And a "new moon" occurs when the far side of the Moon has full sunlight, and the side facing us is having its night.
+        The Moon makes a complete orbit around Earth in 27 Earth days and rotates or spins at that same rate, or in that same amount of time. Because Earth is moving as well &mdash; rotating on its axis as it orbits the sun &mdash; from our perspective, the Moon appears to orbit us every 29 days.`
+      },
+      {
+        heading: 'Formation',
+        content: `The leading theory of the Moon's origin is that a Mars-sized body collided with Earth about 4.5 billion years ago. The resulting debris from both Earth and the impactor accumulated to form our natural satellite 239,000 miles (384,000 kilometers) away. The newly formed Moon was in a molten state, but within about 100 million years, most of the global "magma ocean" had crystallized, with less-dense rocks floating upward and eventually forming the lunar crust.`
+      },
+      {
+        heading: 'Structure',
+        content: `Earth's Moon has a core, mantle and crust.
+
+        The Moon’s core is proportionally smaller than other terrestrial bodies' cores. The solid, iron-rich inner core is 149 miles (240 kilometers) in radius. It is surrounded by a liquid iron shell 56 miles (90 kilometers) thick. A partially molten layer with a thickness of 93 miles (150 kilometers) surrounds the iron core.
+        
+        The mantle extends from the top of the partially molten layer to the bottom of the Moon's crust. It is most likely made of minerals like olivine and pyroxene, which are made up of magnesium, iron, silicon and oxygen atoms.
+        
+        The crust has a thickness of about 43 miles (70 kilometers) on the Moon’s near-side hemisphere and 93 miles (150 kilometers) on the far-side. It is made of oxygen, silicon, magnesium, iron, calcium and aluminum, with small amounts of titanium, uranium, thorium, potassium and hydrogen.
+        
+        Long ago the Moon had active volcanoes, but today they are all dormant and have not erupted for millions of years.`
+      },
+      {
+        heading: 'Surface',
+        content: `With too sparse an atmosphere to impede impacts, a steady rain of asteroids, meteoroids and comets strikes the surface of the Moon, leaving numerous craters behind. Tycho Crater is more than 52 miles (85 kilometers) wide.
+
+        Over billions of years, these impacts have ground up the surface of the Moon into fragments ranging from huge boulders to powder. Nearly the entire Moon is covered by a rubble pile of charcoal-gray, powdery dust and rocky debris called the lunar regolith. Beneath is a region of fractured bedrock referred to as the megaregolith.
+        
+        The light areas of the Moon are known as the highlands. The dark features, called maria (Latin for seas), are impact basins that were filled with lava between 4.2 and 1.2 billion years ago. These light and dark areas represent rocks of different composition and ages, which provide evidence for how the early crust may have crystallized from a lunar magma ocean. The craters themselves, which have been preserved for billions of years, provide an impact history for the moon and other bodies in the inner solar system.
+        
+        If you looked in the right places on the Moon, you would find pieces of equipment, American flags, and even a camera left behind by astronauts. While you were there, you'd notice that the gravity on the surface of the Moon is one-sixth of Earth's, which is why in footage of moonwalks, astronauts appear to almost bounce across the surface.
+        
+        The temperature reaches about 260 degrees Fahrenheit (127 degrees Celsius) when in full sun, but in darkness, the temperatures plummets to about -280 degrees Fahrenheit (-173 degrees Celsius).`
+      },
+      {
+        heading: 'Water on the Moon',
+        content: `During the initial exploration of the moon, and the analysis of all the returned samples from the Apollo and the Luna missions, we thought that the surface of the moon was dry.
+
+        The first definitive discovery of water was made in 2008 by the Indian mission Chandrayaan-1, which detected hydroxyl molecules spread across the lunar surface and concentrated at the poles. Missions usch as Lunar Prospector, LCROSS, and Lunar Reconnaissance Orbiter, have not only shown that the surface of the Moon has a global hydration, but there are actually high concentrations of ice water in the permanently shadowed regions of the lunar poles. 
+        
+        Scientists also found the lunar surface releases its water when the Moon is bombarded by micrometeoroids. The surface is protected by a layer, a few centimeters of dry soil that can only be breached by large micrometeoroids. When micrometeoroids impact the surface of the moon, most of the material in the crater is vaporized. The shock wave carries enough energy to release the water that’s coating the grains of the soil. Most of that water is released into space`
+      },
+      {
+        heading: 'Atmosphere',
+        content: `The Moon has a very thin and weak atmosphere, called an exosphere. It does not provide any protection from the sun's radiation or impacts from meteoroids.`
+      },
+      {
+        heading: 'Potential for Life',
+        content: `The many missions that have explored the Moon have found no evidence to suggest it has its own living things. However, the Moon could be the site of future colonization by humans. The discovery the Moon harbors water ice, and that the highest concentrations occur within darkened craters at the poles, makes the Moon a little more hospitable for future human colonists. `
+      }
+    ]
   }
 ]

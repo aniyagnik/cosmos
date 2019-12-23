@@ -53,6 +53,9 @@ export default {
 }
 .info{
   background-image: url('../../public/pics/sun.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .info-box{
   color:rgb(20, 16, 255);

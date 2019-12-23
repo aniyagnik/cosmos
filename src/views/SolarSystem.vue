@@ -32,6 +32,7 @@ export default {
   background-image: url('../../public/pics/solarSystem.jpg');
   background-position:center;
   background-repeat: no-repeat;
-  height: 92.5vh;
+  background-attachment: fixed;
+  background-position: center;
 }
 </style>

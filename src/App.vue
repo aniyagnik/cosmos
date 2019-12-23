@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" >
     <div>
     <b-navbar toggleable="lg" type="dark" variant="dark">
       <b-navbar-brand>
@@ -23,7 +23,7 @@
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
       <b-collapse id="nav-collapse" is-nav>
-        <!-- Right aligned nav items -->
+        <!-- Right aligned nav items 4a6590ea9dc7457eaf1d8ad6f6751b60-->
         <b-navbar-nav class="ml-auto">
           <b-nav-form>
             <b-form-input size="sm" class="mr-sm-2" placeholder="Search"></b-form-input>

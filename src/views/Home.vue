@@ -13,12 +13,18 @@
           them get their creative juices flowing. Since the topic of the sentence is completely unknown, it forces the writer
         </p><br><br>
       </div>
-      <br>
+      <br> <br><br><br>
       <h2>EXPLORE OUR =></h2>
       <br>
-      <button class='hBtn'>Earth</button>
-      <button class='hBtn'>Sun</button>
-      <button class='hBtn'>Moon</button>
+      <router-link to="/solarSystem/earth">
+        <button class='hBtn'>Earth</button>
+      </router-link>
+      <router-link to="/solarSystem/earth">
+        <button class='hBtn'>Moon</button>
+      </router-link>
+      <router-link to="/solarSystem/earth">
+        <button class='hBtn'>Sun</button>
+      </router-link> <br> <br>
     </div>
   </div>
 </template>
@@ -35,18 +41,20 @@ export default {
   background: linear-gradient(292deg, rgba(112,115,102,0.9977124638918067) 1%, rgba(2,0,36,1) 90%);
   background-position:center;
   background-repeat: repeat;
-  height: 92.5vh;
 }
 
 #home-box {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-image: url('../../public/pics/gal.png');
   background-position:center;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   font-size: 1.3em;
   color: azure;
   margin:10vw;
   margin-top:-4vh;
+  margin-bottom:-20vw;
 }
 
 .content{
@@ -54,8 +62,8 @@ export default {
   opacity: 0.5;
 }
 .hBtn{
-  margin-right: 10vw;
-  margin-left: 10vw;
+  margin-right: 5vw;
+  margin-left: 5vw;
   padding-left: 4vw;
   padding-right: 4vw;
   padding-top: 0.5vw;
