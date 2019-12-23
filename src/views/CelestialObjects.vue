@@ -2,12 +2,11 @@
     <!-- <div :style="{ 'background-image': `url(${body.image})` }"> -->
     <div class='info'>
       <div class='info-box'>
-        <h1>{{ body.name }}</h1>
+        <h1 class='capital'><b>{{ body.name}}</b></h1><br> <br>
         <div class='pnts'>
           <h3 style='color:crimson'>QUICK FACTS</h3>
           <p>type : {{ body.type }}</p>
-          <p>AGE : {{ body.age }}</p>
-          <p>RADIUS : {{ body.radius }}</p>
+          <p v-for='prop in body.otherDetails' :key='prop.property'>{{prop.property}} : {{ prop.value }}</p>
         </div> <br>
         <li style="list-style-type:none" v-for='data in body.discription' :key="data.heading">
           <info-container :data='data'></info-container>
@@ -43,6 +42,15 @@ export default {
 </script>
 
 <style>
+.capital{
+  text-transform: uppercase;
+  font-size: 3em;
+  color:rgb(75, 17, 17);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 1px solid rgb(238, 5, 5);
+  box-shadow: 20px 20px 30px rgb(14, 163, 46);
+  background-color: gold
+}
 .info{
   background-image: url('../../public/pics/sun.jpg');
 }
