@@ -6,9 +6,6 @@
         <router-link class="nav-items" to="/">Home</router-link>
       </b-navbar-brand>
       <b-navbar-brand>
-        <router-link class="nav-items" to="/about">About</router-link>
-      </b-navbar-brand>
-      <b-navbar-brand>
         <router-link class="nav-items" to="/solarSystem">Solar System</router-link>
       </b-navbar-brand>
       <b-navbar-brand>

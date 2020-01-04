@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import About from '../views/About.vue'
 import SolarSystem from '../views/SolarSystem.vue'
 import Galaxies from '../views/Galaxies.vue'
 import CosmicBodies from '../views/CosmicBodies.vue'
@@ -15,11 +14,6 @@ const routes = [
     path: '/',
     name: 'home',
     component: Home
-  },
-  {
-    path: '/about',
-    name: 'about',
-    component: About
   },
   {
     path: '/solarSystem',

@@ -13,7 +13,7 @@
           them get their creative juices flowing. Since the topic of the sentence is completely unknown, it forces the writer
         </p><br><br>
       </div>
-      <br> <br><br><br>
+      <br> <br>
       <h2>EXPLORE OUR =></h2>
       <br>
       <router-link to="/solarSystem/earth">
@@ -55,6 +55,7 @@ export default {
   margin:10vw;
   margin-top:-4vh;
   margin-bottom:-20vw;
+  min-height: 93.5vh;
 }
 
 .content{
@@ -71,7 +72,8 @@ export default {
   color: azure;
   padding-bottom: 0.5vw;
   border-radius: 10%;
-  border:1px solid cyan;
+  filter: saturate(100%);
+  border:2px solid cyan;
 }
 
 .hBtn:hover{
@@ -79,6 +81,7 @@ export default {
   color: blue;
   border-radius: 0%;
   border:1px dashed crimson;
+  filter: saturate(900%);
   cursor: pointer;
   transition: all 1s;
 }

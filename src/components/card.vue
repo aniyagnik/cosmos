@@ -1,6 +1,6 @@
 <template>
   <div class="card-component">
-      <h1 class='heading'>{{ object.name }}</h1>
+      <h1 class='title text-uppercase font-weight-black'>{{ object.name }}</h1>
       <p>
         {{ object.summary }}
       </p>
