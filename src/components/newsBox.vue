@@ -4,8 +4,9 @@
       <img :src="`${news.urlToImage}`" :alt="`${news.title}`" style="border:1px dashed white;max-width:100%; max-height:21.5vw;min-width:100%; min-height:21.5vw;">
     </span>
     <span style="float: right;max-width:60%; max-height:21.5vw;">
-      <h4 style='color:black'>{{news.title}}</h4>
-      <p>{{news.description}}</p>
+      <h3>{{news.title}}</h3>
+      <p style='font-size:1.2em;font-weight:400'>{{news.description}}</p>
+      <a style="text-decoration:none;color:white;background-color:black;padding:3px" :href="`${news.url}`">read full news</a>
     </span>
   </div>
 </template>
@@ -25,5 +26,9 @@ export default {
   max-width: 90vw;
   min-height: 21.5vw;
   max-height: 21.5vw;
+  h3{
+      color:black;
+      font-weight: 900;
+  }
 }
 </style>
