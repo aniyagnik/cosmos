@@ -7,7 +7,7 @@
         <news-container :news='news'></news-container>
       </div>
       <div>
-        <button @click="loadMore()">load more</button>
+        <button @click="loadMore()">load more</button> <br><br>
       </div>
     </div>
   </div>
@@ -22,7 +22,9 @@ export default {
   },
   data () {
     return {
-      allNews: []
+      allNews: [],
+      country: ['us', 'cn', 'ru', 'fr', 'kr', 'au', 'ca', 'tw', 'gb'],
+      i: 0
     }
   },
   mounted: function () {
@@ -37,7 +39,9 @@ export default {
   },
   methods: {
     loadMore () {
-      fetch('https://newsapi.org/v2/top-headlines?country=us&category=science&apiKey=4a6590ea9dc7457eaf1d8ad6f6751b60', {
+      let url = 'https://newsapi.org/v2/top-headlines?country=' + this.country[this.i] + '&category=science&apiKey=4a6590ea9dc7457eaf1d8ad6f6751b60'
+      this.i += 1
+      fetch(url, {
         method: 'get'
       })
         .then(response => response.json())
@@ -61,7 +65,7 @@ export default {
   min-height: 93.5vh;
   h1{
   background-color: gold;
-  width: 100vw;
+  width: 100%;
   padding: 1vw;
   color:blue;
   border:2px solid brown;
