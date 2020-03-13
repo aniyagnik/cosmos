@@ -11,7 +11,7 @@
         complex, less cohesively bound structure, which may consist of multiple
         bodies or even other objects with substructures. Celestial bodies or
         heavenly groups are objects in space such as the sun, planets, moon, and
-        stars.
+        stars. <br>
         They form a part of the massive universe we live in and are typically
         very far from us. The magnificent night sky is dotted with such objects
         and when we see them using a telescope,they expose fascinating worlds of
@@ -37,7 +37,7 @@
 
      </p>
      <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-      <img src="../../public/pics/typesOfGalaxies.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+      <img src="../../public/pics/star.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
       <p style='font-size:0.6em; display:block;margin:auto;'>
           This graphic compares illustrations of the three main types of galaxies (top) with actual photos of galaxies (bottom) that fit the categories. Credit: A. Feild (STScI)
       </p>
@@ -57,7 +57,7 @@
         is estimated that there are over 300 sextillions (3×10^23 ) stars in
         the Universe, including all-stars outside our galaxy (the Milky Way),
         are invisible to the naked eye from Earth.
-
+        <br>
         A star's life stat with the gravitational collapse of a
         gaseous nebula of material composed mostly of hydrogen, along with
         helium and small amounts of heavier elements. When the lunar core is
@@ -70,9 +70,9 @@
         to become a red hulk when the hydrogen fuel in its core is exhausted.
      </p>
       <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-      <img src="../../public/pics/galaxyDark.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+      <img src="../../public/pics/star.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
       <p style='font-size:0.6em; display:block;margin:auto;'>
-        The Bullet Cluster was formed after the collision of two large clusters of galaxies. Hot gas detected by Chandra in X-rays is seen as two pink clumps in the image and contains most of the "normal," or baryonic, matter in the two clusters. The bullet-shaped clump on the right is the hot gas from one cluster, which passed through the hot gas from the other larger cluster during the collision. An optical image from the Hubble and Magellan telescopes shows the galaxies in orange and white. The blue areas in this image depict where astronomers find most of the mass in the clusters. Most of the matter in the clusters (blue) is clearly separate from the normal matter (pink), giving direct evidence that nearly all of the matter in the clusters is dark. Credit: X-ray: NASA/CXC/M.Markevitch et al.; Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.; Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/D.Clowe et al. NEWS RELEASE: 2006-39 >
+        A star
       </p>
      </div>
       <br>
@@ -82,7 +82,7 @@
         be spherical by its own magnitude, is not huge enough to
         cause thermonuclear fusion, and has cleared its neighbouring
         region of planetesimals.
-
+        <br>
         The word planet is an ancient word which ties to history, astrology,
         science, mythology, and religion. Five planets in the Solar System are
         seen with our naked eye. These were observed by many early cultures as
@@ -93,19 +93,20 @@
 
      </p>
        <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-        <img src="../../public/pics/galaxyCollide.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+        <img src="../../public/pics/uranus.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
         <p style='font-size:0.6em; display:block;margin:auto;'>
-          This celestial firestorm is the blazing wreckage of a collision between two spiral galaxies that began a few hundred million years ago. The smashup has pulled dark dust into long strands stretching across the galaxies. It has also compressed huge clouds of gas and dust, igniting a rash of new star formation within the galaxies. Credit: NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration NEWS RELEASE: 2006-46 >
+          a planet - uranus
         </p>
      </div>
      <p>
+        <br>
         Planets are mostly divided into two main types: big low-density giant
         planets, and smaller stony terrestrials. There are eight planets in the
         Solar System. In order of rising distance from the Sun, they
         are Mercury, Venus, Earth, and Mars, then the four giant
         planets, Jupiter, Saturn, Uranus, and Neptune. Six of the planets are
         circled by one or more natural satellites.
-
+        <br>
         Numerous thousands of planets around other stars ("extrasolar planets"
         or "exoplanets") have been shown in the Milky Way. As of 5 Feb 2019,
         3,956 known extrasolar planets in 2,973 planetary systems (plus
@@ -124,7 +125,7 @@
         natural satellites. Four IAU-Mentioned dwarf planets are also known to
         have natural satellites: Pluto, Haumea, Makemake, and Eris. As of
         September 2018, there are 334 other small planets known to have moons.
-
+        <br>
         The Earth-Moon structure is unique in that the ratio of the mass of the
         Moon to the frame of Earth is much greater than that of any other
         natural-satellite–planet proportion in the Solar System (although there
@@ -132,11 +133,12 @@
         the Pluto–Charon system).
      </p>
      <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-       <img src="../../public/pics/galaxyFormation.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1200px-FullMoon2010.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
         <p style='font-size:0.6em; display:block;margin:auto;'>
-          A selection of spiral galaxies from the Great Observatories Origins Deep Survey (GOODS) are grouped by their distance, and therefore by the time at which they are seen. The change in structure over billions of years is visually apparent. Credit: NASA, ESA, F. Summers and Z. Levay (STScI)
+           A satellite - moon
         </p>
      </div>
+       <br>
      <h3>COMETS</h3>
      <p>
        A comet is an icy object which is present in Solar System object that,
@@ -151,7 +153,7 @@
       a comet may be seen from the Earth without the help of a telescope and
       may subtend an arc of 30° (60 Moons) through the sky. Comets have been
       seen and recorded since ancient times by many cultures.
-
+      <br>
       Comets are distinguished from asteroid-ds by the existence of an
       extended, gravitationally unbound atmosphere nearby their central core.
       This atmosphere has parts named as the coma which is surrounded by its
@@ -169,11 +171,12 @@
       features of inner solar system asteroids were called Manx comets.
      </p>
      <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-       <img src="../../public/pics/galaxyFormation.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+       <img src="https://www.newshub.co.nz/dam/form-uploaded-images-ordered/2019/08/18/GettyImages-1073058750-comet-1120-generic.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
         <p style='font-size:0.6em; display:block;margin:auto;'>
-          A selection of spiral galaxies from the Great Observatories Origins Deep Survey (GOODS) are grouped by their distance, and therefore by the time at which they are seen. The change in structure over billions of years is visually apparent. Credit: NASA, ESA, F. Summers and Z. Levay (STScI)
+          A comet
         </p>
      </div>
+       <br>
      <h3>ASTEROIDS</h3>
      <p>
        Asteroids are small planets, especially of the inside Solar System. Big
@@ -185,7 +188,15 @@
         have volatile-rich tops likecomets. As a result, they were frequently
         famed from objects found in the main asteroid belt., the word "asteroid"
         refers to the small planets of the inner Solar System.
-
+      </p>
+      <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
+        <img src="https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/454791" style=' display:block;margin:auto;' width="100%" height='100%' >
+          <p style='font-size:0.6em; display:block;margin:auto;'>
+            A astroid
+          </p>
+      </div>
+      <p>
+        <br>
         There are zillions of asteroids, many assumed to be the crushed
         leftovers of planetesimals, bodies within the young Sun's solar
         nebula that never grew big enough to become planets. The massive
@@ -199,7 +210,7 @@
         and silicate (stony) configurations, respectively. The sizes of
         asteroids vary greatly; the largest, Ceres, is almost 1,000 km (625 mi)
         across.
-
+        <br>
         Asteroids are separated from comets and meteoroids. In the case of
         comets, the difference is one of composition: while asteroids are mainly
         made of mineral and rock, comets are mainly composed of dust and ice.
@@ -208,14 +219,8 @@
         meteoroids is mainly of size: meteoroids have a radius of one meter or
         less, whereas asteroids have a radius greater than one meter. Finally,
         meteoroids can be made of either cometary or asteroidalmaterials.
-
      </p>
-     <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-       <img src="../../public/pics/galaxyFormation.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
-        <p style='font-size:0.6em; display:block;margin:auto;'>
-          A selection of spiral galaxies from the Great Observatories Origins Deep Survey (GOODS) are grouped by their distance, and therefore by the time at which they are seen. The change in structure over billions of years is visually apparent. Credit: NASA, ESA, F. Summers and Z. Levay (STScI)
-        </p>
-     </div>
+       <br>
      <h3>Meteor and Meteorites</h3>
      <p>
        A meteor, also known as a shooting star, the path of meteor is visible
@@ -227,7 +232,7 @@
       naturally occur in the mesosphere at altitudes from 76 to 100 km
       (250,000 to 330,000 ft). The root word meteor comes from
       the Greek meteōros, that says “tall in the air".
-
+      <br>
       Billions of meteors enter Earth's atmosphere daily. Most meteoroids that
       cause meteors are about the size of a particle of sand, i.e. they are
       usually millimeter-sized or even smaller. Meteoroid sizes can be
@@ -244,11 +249,12 @@
       orbital speeds of meteoroids, and the gravity well of Earth.
      </p>
      <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-       <img src="../../public/pics/galaxyFormation.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+       <img src="https://images.squarespace-cdn.com/content/v1/54a8873ce4b0631d0c50875e/1436846517251-QYULLR91NB710EF284KZ/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/iStock+Photo+of+metor+over+planet.jpg?format=1500w" style=' display:block;margin:auto;' width="100%" height='100%' >
         <p style='font-size:0.6em; display:block;margin:auto;'>
-          A selection of spiral galaxies from the Great Observatories Origins Deep Survey (GOODS) are grouped by their distance, and therefore by the time at which they are seen. The change in structure over billions of years is visually apparent. Credit: NASA, ESA, F. Summers and Z. Levay (STScI)
+          A meteroid
         </p>
      </div>
+     <br>
      <h3>GALAXY</h3>
      <p>
       A galaxy is a gravitational system of stars, interstellar gas, stellar
@@ -257,7 +263,7 @@
       reference to the Milky Way. Galaxies are in size from small with just a
       few hundred million (10^8 ) stars to colossi with one
       hundred trillion (10^14 ) stars, each orbiting its galaxy's center of mass.
-
+      <br>
       Galaxies are characterized according to their visual morphology
       as oval, spiral, or irregular. Many galaxies are believed to
       have supermassive black holes at their cores. The Milky Way's central
@@ -266,7 +272,7 @@
       bestreserved observed galaxy with a comoving distance of 32
       billion light-years from Earth and observed as it existed just 400
       million years after the Big Bang.
-
+      <br>
       The space between galaxies is filled with an unsubstantiated gas
       (the intergalactic medium) having an average mass of less than
       one atom per cubic meter. Mostgalaxies are gravitationally systematized
@@ -279,9 +285,9 @@
       Virgo supercluster.
      </p>
      <div style='opacity: 1.1 ;background-color:black;padding-left:10vw;padding-right:10vw'>
-       <img src="../../public/pics/galaxyFormation.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
+       <img src="../../public/pics/galaxy.jpg" style=' display:block;margin:auto;' width="100%" height='100%' >
         <p style='font-size:0.6em; display:block;margin:auto;'>
-          A selection of spiral galaxies from the Great Observatories Origins Deep Survey (GOODS) are grouped by their distance, and therefore by the time at which they are seen. The change in structure over billions of years is visually apparent. Credit: NASA, ESA, F. Summers and Z. Levay (STScI)
+           A galaxy
         </p>
      </div>
     </div><br>
