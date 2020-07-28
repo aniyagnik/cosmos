@@ -5,7 +5,7 @@
     </span>
     <span style="float: right;max-width:60%; max-height:21.5vw;">
       <h3>{{news.title}}</h3>
-      <p style='font-size:1.2em;font-weight:400'>{{ news.description }}</p>
+      <p style='font-size:1.2em;font-weight: bold;'>{{ news.description }}</p>
       <a style="text-decoration:none;color:white;background-color:black;padding:3px" target='_blank' :href="`${news.url}`">read full news</a>
     </span>
   </div>

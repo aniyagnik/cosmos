@@ -6,11 +6,9 @@
       <div class='content'> <br><br>
         <h1>WELCOME TO THE COSMOS</h1>
         <p>
-          If you're visiting this page, you're likely here because you're searching for a random sentence.
-          Sometimes a random word just isn't enough, and that is where the random sentence generator comes into play.
-          By inputting the desired number, you can make a list of as many random sentences as you want or need.
-          Producing random sentences can be helpful in a number of different ways. For writers, a random sentence can help
-          them get their creative juices flowing. Since the topic of the sentence is completely unknown, it forces the writer
+          Cosmology is the study of the cosmos, and in its broadest sense covers a variety of very different approaches:
+           scientific, religious and philosophical. All cosmologies have in common an attempt to understand the implicit
+           order within the whole of being.In this way, most religions and philosophical systems have a cosmology.
         </p><br><br>
       </div>
       <br> <br>

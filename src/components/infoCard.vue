@@ -23,6 +23,9 @@ export default {
 }
 .box{
   color:brown;
+  font-size: 1.1em;
+  font-weight: bold;
+  font-family: monospace;
   background-color: aqua;
   opacity:1.1;
   text-align:justify;
